@@ -115,8 +115,6 @@ python train_submission.py
 - スクリプト:
   - [`train_submission.py`](./train_submission.py)
 
-※ 現時点で `docs/` ディレクトリや PDF レポートはリポジトリ内に確認できませんでした。
-
 ## 7. 使用技術
 
 - 言語
